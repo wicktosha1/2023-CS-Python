@@ -62,7 +62,8 @@ dependencies = [
   "ruff>=0.1.6",
 ]
 [tool.hatch.envs.lint.scripts]
-typing = "mypy --install-types --non-interactive {args:src/foo tests}"
+#typing = "mypy --non-interactive {args:src/foo tests}"
+typing = "mypy {args:src}"
 style = [
   "ruff {args:.}",
 ]
