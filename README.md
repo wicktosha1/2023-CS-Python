@@ -1,27 +1,37 @@
 # 2023 CS Python
 
+## Начальная настройка
 
-
-## Getting started
-
-Install packages:
+Установите пакеты:
 ```bash
 pip install hatch, pytest
 ```
 
+Проверьте что у вас все запускается:
 ```bash
 hatch env create
 hatch shell
 ```
 
-### Formatting code
+## Как сделать коммит с помощью терминала
 
-```bash
-hatch run lint:fmt
-```
-
-### Lint code
-
-```bash
-hatch run lint:all
-```
+1. удостовериться что код не содержит стилистических ошибок:
+    ```bash
+    hatch run lint:fmt
+    ```
+2. Удостовериться что код проходит все тесты:
+    ```bash
+    hatch run test
+    ```
+3. Зафиксировать изменения в файлах:
+    ```bash
+    git add ./src/01_Calculator/calculator.py
+    ```
+4. Сохранить код в локальном гите с комментарием:
+    ```bash
+    git commit -m "Add calculator task"
+    ```
+5. Отправить код в удаленный репозиторий:
+    ```bash
+    git commit push
+    ```
