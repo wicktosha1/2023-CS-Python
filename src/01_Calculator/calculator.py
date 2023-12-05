@@ -27,14 +27,16 @@ def prefix_evaluate(prefix_equation: Union[List[str], str]) -> Optional[int]:
 
 
 def to_prefix(equation: str) -> str:
-    token_stack = []
-    prefix_tokens = []
-    tokens = list(reversed(equation.split()))
-    while tokens:
-        token = tokens.pop()
-        # Сюда писать код)
+    op_stack = []
+    prefix = []
 
-    return " ".join(prefix_tokens)
+    for el in equation.split()[::-1]:
+        pass
+
+    while op_stack:
+        prefix.append(op_stack.pop())
+
+    return " ".join(prefix[::-1])
 
 
 def calculate(equation: str) -> int:
