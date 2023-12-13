@@ -9,13 +9,13 @@
     <th>4. (till jan 11th)</th>
 </tr>
 <tr><td><a href="https://github.com/dan-gar/2023-CS-PythonV2">Alekseenko Daniil</a</td>
-    <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/deep-learning-engineer/2023-CS-Python">Ganzha Eduard</a</td>
     <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/sugvess/2023-CS-Python">Gogoleva Liliana</a</td>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
+<tr><td><a href="https://github.com/Nomemes-Jokemuch/2023-CS-Python">Dolgov Igor</a</td>
     <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
-<!--<tr><td><a href="https://github.com/56hg7t83/2023-CS-Python.git">Dolgov Igor</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>-->
 <tr><td><a href="https://github.com/Limonchelloops/2023-CS-Python">Emelyanov Mikhail</a</td>
     <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/maryzvrz/2023-CS-Python">Zavarzaeva Marina</a</td>
@@ -35,22 +35,20 @@
 <tr><td><a href="https://github.com/MariaPobokova/2023-CS-Python">Pobokova Maria</a</td>
     <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/perchik4u/2023-CS-Python">Redchenko Michail</a</td>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
+<tr><td><a href="https://github.com/LemonSkvid/2023-CS-Python">Sanarov Bogdan</a</td>
     <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
-<!-- Sanarov -->
 <tr><td><a href="https://github.com/linsivs/2023-CS-Python">Sivtseva Alina</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <!-- Spicin -->
 <tr><td><a href="https://github.com/Ronyleno/2023-CS-Python">Studenichin Egor</a</td>
-    <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/lerochkagucci/2023-CS-Python">Talonova Valerya</a</td>
     <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/uzilova123/2023-CS-Python">Uzilova Alina</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
-<tr><td><a href="https://github.com/VikaFom/2023-CS-Python">Fomina Viktorya</a</td>
     <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
+<tr><td><a href="https://github.com/VikaFom/2023-CS-Python">Fomina Viktorya</a</td>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/Niksha36/2023-CS-Python">Shurlo Nikita</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
-
-<tr><td><a href="https://github.com/LemonSkvid/2023-CS-Python">LemonSkvid</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 </table>
