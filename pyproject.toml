@@ -70,6 +70,18 @@ all = [
   "style",
   "typing",
 ]
+task1 = [
+  "ruff {args:src/01_Calculator}",
+]
+task2 = [
+  "ruff {args:src/02_Group}",
+]
+task3 = [
+  "ruff {args:src/03_Singleton}",
+]
+task4 = [
+  "ruff {args:src/04_Ocean}",
+]
 
 [tool.ruff]
 target-version = "py37"
